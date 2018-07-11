@@ -14,8 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-   <plugins>
+    <plugins>
     <plugin>
       <groupId>org.jacoco</groupId>
       <artifactId>jacoco-maven-plugin</artifactId>
@@ -37,4 +36,6 @@
       </executions>
     </plugin>
   </plugins>
+  </dependencies>
+   
 </project>
